@@ -1,0 +1,53 @@
+{
+  "headline": "INNOVATING THE FRAME: THE AI PRODUCTION REVOLUTION",
+  "subtitle": "AI Video Production News \u2014 Edition 003",
+  "stories": [
+    {
+      "title": "Sora Is Dead: Inside the $15M/Day Failure That Ended OpenAI's Video Dream",
+      "summary": "OpenAI shut down Sora on April 26, 2026 after burning $15M daily in compute against just $2.1M lifetime revenue. Downloads crashed 67%, Disney walked from a $1B deal, and active users dropped below 500K. The AI video market has matured into four sustainable tiers \u2014 Runway, Kling, Veo, and Pika \u2014 each with proven economics and clear use cases. If you're still building on Sora, the API shuts down September 24.",
+      "url": "https://www.digitalapplied.com/blog/ai-video-market-after-sora-runway-kling-veo-2026",
+      "alt": "Crumbling server rack collapsing in dramatic light and smoke",
+      "image": "/data/.openclaw/workspace/newsletters/images_ed003/story1-sora-dead.png",
+      "image_url": "https://raw.githubusercontent.com/nickralph-DREAM/Newsletter_ed_0003/main/Newsletter/2026-04-28/story-1.png"
+    },
+    {
+      "title": "Alibaba's Mystery Model 'HappyHorse-1.0' Tops Every Global AI Video Benchmark",
+      "summary": "A model appeared anonymously on Artificial Analysis leaderboards and instantly hit #1 on both text-to-video and image-to-video blind tests \u2014 beating Kling 3.0, Veo 3.1, and Runway Gen-4. It was Alibaba. The ATH AI Innovation Unit confirmed it on Friday. China's AI video output is now arguably best-in-class, raising urgent questions about access, licensing, and what's coming next.",
+      "url": "https://www.cnbc.com/2026/04/10/alibaba-happyhorse-ai-video-model-benchmark-reveal.html",
+      "alt": "A luminous data-stream horse galloping through a dark digital void",
+      "image": "/data/.openclaw/workspace/newsletters/images_ed003/story2-happyhorse.png",
+      "image_url": "https://raw.githubusercontent.com/nickralph-DREAM/Newsletter_ed_0003/main/Newsletter/2026-04-28/story-2.png"
+    },
+    {
+      "title": "Avid and Google Cloud Forge Multi-Year AI Partnership \u2014 Gemini Coming to Media Composer",
+      "summary": "Announced at NAB Show 2026, Avid and Google Cloud have signed a multi-year deal to embed Gemini models and Vertex AI directly into Media Composer and Content Core \u2014 Avid's new cloud-native SaaS platform. The integration targets two high-value workflows: intelligent archive search (auto-tagging decades of footage so libraries become as searchable as the web) and AI-assisted editing (agentic tools that match styles, fill timelines, and handle heavy lifting so editors can focus on storytelling). Early adopters include Gray Media, Major League Baseball, NBCUniversal, and Canal+.",
+      "url": "https://deadline.com/2026/04/google-cloud-avid-ai-editing-partnership-1236863217/",
+      "alt": "An editor at a professional Avid workstation with glowing AI-assisted timeline and cinematic studio lighting",
+      "image": "/data/.openclaw/workspace/newsletters/images_ed003/story3-avid-google.png",
+      "image_url": "https://raw.githubusercontent.com/nickralph-DREAM/Newsletter_ed_0003/main/Newsletter/2026-04-28/story-3.png"
+    },
+    {
+      "title": "Adobe's NAB 2026 Salvo: Color Mode in Premiere, Kling 3.0 in Firefly, AI Assistant Across the Suite",
+      "summary": "Adobe's biggest creative update in years landed at NAB. Premiere gets a landmark Color Mode built from scratch \u2014 a direct challenge to DaVinci Resolve. The Firefly Video Editor adds Kling 3.0, Kling 3.0 Omni, Veo 3.1, and Runway Gen-4.5 to its 30+ model library. Frame.io Drive makes cloud assets feel local. A new Firefly AI Assistant creates one conversational workflow across Photoshop, Premiere, Lightroom, and Illustrator. 800M+ licensed stock assets also land inside Firefly.",
+      "url": "https://nofilmschool.com/adobe-updates-nab-2026",
+      "alt": "A video editor at a dark workstation with holographic AI overlays glowing around the screens",
+      "image": "/data/.openclaw/workspace/newsletters/images_ed003/story4-adobe-nab.png",
+      "image_url": "https://raw.githubusercontent.com/nickralph-DREAM/Newsletter_ed_0003/main/Newsletter/2026-04-28/story-4.png"
+    },
+    {
+      "title": "WGA Strikes Four-Year Deal With Hollywood: First-Ever AI Training Compensation Protections",
+      "summary": "The Writers Guild of America and AMPTP reached a four-year Minimum Basic Agreement on April 4 \u2014 the longest WGA contract in modern history. The headline win: studios must now compensate writers if their scripts are used to train AI. A $321M health plan infusion and higher streaming residuals round out the deal. This sets the legal and commercial precedent that will define AI rights negotiations across SAG-AFTRA, IATSE, and every creative guild that follows.",
+      "url": "https://www.hollywoodreporter.com/business/business-news/writers-guild-tentative-four-year-deal-studios-1236555949/",
+      "alt": "A vintage typewriter with a human hand at the keys and a robotic hand stopped by a barrier of golden light",
+      "image": "/data/.openclaw/workspace/newsletters/images_ed003/story5-wga-deal.png",
+      "image_url": "https://raw.githubusercontent.com/nickralph-DREAM/Newsletter_ed_0003/main/Newsletter/2026-04-28/story-5.png"
+    }
+  ],
+  "published": {
+    "owner": "nickralph-DREAM",
+    "repo": "Newsletter_ed_0003",
+    "branch": "main",
+    "folder": "Newsletter/2026-04-28",
+    "html_url": "https://raw.githubusercontent.com/nickralph-DREAM/Newsletter_ed_0003/main/Newsletter/2026-04-28/newsletter.html"
+  }
+}
